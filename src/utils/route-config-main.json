@@ -1,0 +1,8 @@
+{
+    "/users/settings" :{
+        "roles" : ["admin"]
+    },
+    "/usage":{
+        "roles":["admin"]
+    }
+}

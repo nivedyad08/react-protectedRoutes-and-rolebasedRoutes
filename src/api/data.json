@@ -1,0 +1,11 @@
+{
+    "nivedya":{
+        "role" :["user"]
+    },
+    "neethu":{
+        "role" :["user"]
+    },
+    "kiara":{
+        "role" :["admin"]
+    }
+}
